@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/githubcard/static/css/main.e8132228.chunk.css",
+    "main.js": "/githubcard/static/js/main.16f4b2df.chunk.js",
+    "main.js.map": "/githubcard/static/js/main.16f4b2df.chunk.js.map",
+    "runtime-main.js": "/githubcard/static/js/runtime-main.26362fd7.js",
+    "runtime-main.js.map": "/githubcard/static/js/runtime-main.26362fd7.js.map",
+    "static/css/2.5cb9562d.chunk.css": "/githubcard/static/css/2.5cb9562d.chunk.css",
+    "static/js/2.82a78c4d.chunk.js": "/githubcard/static/js/2.82a78c4d.chunk.js",
+    "static/js/2.82a78c4d.chunk.js.map": "/githubcard/static/js/2.82a78c4d.chunk.js.map",
+    "index.html": "/githubcard/index.html",
+    "precache-manifest.d4151fb45e02e2a96f5e5a07ee00f1a1.js": "/githubcard/precache-manifest.d4151fb45e02e2a96f5e5a07ee00f1a1.js",
+    "service-worker.js": "/githubcard/service-worker.js",
+    "static/css/2.5cb9562d.chunk.css.map": "/githubcard/static/css/2.5cb9562d.chunk.css.map",
+    "static/css/main.e8132228.chunk.css.map": "/githubcard/static/css/main.e8132228.chunk.css.map",
+    "static/js/2.82a78c4d.chunk.js.LICENSE.txt": "/githubcard/static/js/2.82a78c4d.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/githubcard/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26362fd7.js",
+    "static/css/2.5cb9562d.chunk.css",
+    "static/js/2.82a78c4d.chunk.js",
+    "static/css/main.e8132228.chunk.css",
+    "static/js/main.16f4b2df.chunk.js"
+  ]
+}
